@@ -13,3 +13,12 @@ img {
     width: 300px;
     height: auto;
 }
+
+h4 {
+    text-align: center;
+    color: red;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
